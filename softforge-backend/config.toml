@@ -1,0 +1,3 @@
+# Função pública: o navegador chama sem chave. A segurança está dentro da função.
+[functions.quiz]
+verify_jwt = false
